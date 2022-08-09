@@ -4,7 +4,7 @@ console.log("thiago garcia");
 //console.log("thiago garcia'");
 //console.log('thiago garcia`);
 
-//Expreções de linguagem
+//Expressões de linguagem
 console.log(`thiago garcia 000 ${1 + 1}`); // Interpolação
 console.log("thiago garcia 222 ${1 + 1}");
 console.log('thiago garcia 111 ${1 + 1}');
